@@ -1,0 +1,10 @@
+to run a perl file from the bash:
+
+sh
+file.pl
+
+breakcsvtopline.pl lists and prints the parameters of the top line of the gaiasource1 data csv file
+
+breakcsv4.pl fills in arrays of each line and prints a single parameter.
+
+next goal is to read the whole gaiasource1.csv as a perl hash % and start investigating the data.  
