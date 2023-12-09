@@ -1,0 +1,9 @@
+Notes on interpreting the GAIA mission data
+
+from workspace, create a perl code to separate out all of the mission data parameters into variables in arrays and a hash %.  This has the dual benifit of improving my perl programming for work.
+
+Once the .csv data is arranged in a usable format for starting some calculations, us perl to calculate and display the data, because it is used at work so I can improve my perl skills.
+
+written a number of programs in perl to read and calculate the data. 27th Nov.
+
+The gaiasource.csv files contain about a quarter of a million objects in them. I have reduced this to csv100.txt for testing purposes.
