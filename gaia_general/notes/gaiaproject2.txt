@@ -1,7 +1,0 @@
-28 March 2020
-
-Project 2
-
-Answer simple question (8 hours work with result written up)
-
-Idea: About 2% of the gaia catalogue data has parallax data, which provides an accurate distance measurement. The majority of the objects do not have a distance associated. How can their distance be determined?
